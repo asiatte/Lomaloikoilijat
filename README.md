@@ -1,7 +1,6 @@
-Koulua varten tehy projekti. Auttaa käyttäjää tarkastamaan tulevan viikon säätiedot ympäri maailmaa
+Project made for school. It helps the user check the weather forecast for the upcoming week around the world. 
+By clicking on any location on the world map, the user can view the weather forecast for the upcoming week and see the shortest flight route to that destination. The project utilizes the OpenWeatherMap API to retrieve weather information and the AeroDataBox API to calculate flight routes. 
+Done using JavaScript and HTML code.
 
-Klikkaamalla mitä tahansa paikkaa maailmankartalla, voi nähdä tulevan viikon säätiedot sekä nähdä suorimman lentoreitin kohteeseen. Projektissa on käytetty apuna OpenWeatherMap API:ta säätietojen saamiseen sekä AeroDataBox API:ta lentoreittien laskemisseen.
 
-Tehty JavaScriptillä sekä HTML-koodilla.
-
-https://users.metropolia.fi/~atteasi/lomaloikoilijat/
+[Click here to navigate to the website](https://users.metropolia.fi/~atteasi/lomaloikoilijat/)
